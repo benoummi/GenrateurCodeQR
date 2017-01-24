@@ -1,2 +1,2 @@
 # GenrateurCodeQR
-Read and Generate OR Code
+Read and Generate QR Code
